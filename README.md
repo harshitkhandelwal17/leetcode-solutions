@@ -1,2 +1,2 @@
 # leetcode-solutions
-LeetCode Problem Solutions
+LeetCode DSA Problem Solutions
